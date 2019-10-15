@@ -1,6 +1,8 @@
 # Урок по Webpack
 
-### GIT
+### GIT 
+$ git clone https://github.com/asyrtmach/webpack.git folder_name
+
 .gitignore
 README.md
 
